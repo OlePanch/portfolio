@@ -1,0 +1,41 @@
+
+.nav li {
+	display: inline;
+}
+
+.nav a {
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 30px;
+  color: yellow;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.nav ul {
+	display: inline;
+}
+
+.nav {
+background-color: black;
+}
+
+.jumbotron h1 {
+color: yellow;
+font-family: "Times New Roman", Times, serif;
+padding: 100px;
+padding-top: 50px;
+}
+
+.bg {
+	
+	position: fixed;
+	background-size: 100%;
+}
+
+.jumbotron {
+	height: 1500px;
+	background: url(image/2.jpg);
+	background-size: 100%;
+	position: fixed;
+	width: 100%;
+}
